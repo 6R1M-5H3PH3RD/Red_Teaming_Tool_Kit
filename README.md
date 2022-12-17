@@ -306,41 +306,41 @@
 
 
 ## Software For Team Communication
- 1. RocketChat is free, unlimited and open source. Replace email & Slack with the ultimate team chat software solution. https://rocket.chat
- 2. Etherpad is an open source, web-based collaborative real-time editor, allowing authors to simultaneously edit a text document https://etherpad.org/
+ 1. [RocketChat](https://rocket.chat) is free, unlimited and open source. Replace email & Slack with the ultimate team chat software solution. 
+ 2. [Etherpad](https://etherpad.org/) is an open source, web-based collaborative real-time editor, allowing authors to simultaneously edit a text document 
 
 
 
 ## Log Aggregation
- 1. RedELK Red Team’s SIEM – easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. https://github.com/outflanknl/RedELK/
- 2. CobaltSplunk Splunk Dashboard for CobaltStrike logs. https://github.com/vysec/CobaltSplunk
- 3. Red Team Telemetry A collection of scripts and configurations to enable centralized logging of red team infrastructure. https://github.com/ztgrace/red_team_telemetry
- 4. Elastic for Red Teaming Repository of resources for configuring a Red Team SIEM using Elastic. https://github.com/SecurityRiskAdvisors/RedTeamSIEM
- 5. Ghostwriter is a Django project written in Python 3.7 and is designed to be used by a team of operators. https://github.com/GhostManager/Ghostwriter
+ 1. [RedELK](https://github.com/outflanknl/RedELK/) Red Team’s SIEM – easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. 
+ 2. [CobaltSplunk](https://github.com/vysec/CobaltSplunk) Splunk Dashboard for CobaltStrike logs. 
+ 3. [Red Team Telemetry](https://github.com/ztgrace/red_team_telemetry) A collection of scripts and configurations to enable centralized logging of red team infrastructure. 
+ 4. [Elastic](https://github.com/SecurityRiskAdvisors/RedTeamSIEM) for Red Teaming Repository of resources for configuring a Red Team SIEM using Elastic. 
+ 5. [Ghostwriter](https://github.com/GhostManager/Ghostwriter) is a Django project written in Python 3.7 and is designed to be used by a team of operators. 
 
 
 
 ## C# Offensive Framework
- 1. SharpSploit is a .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers. https://github.com/cobbr/SharpSploit
- 2. GhostPack is (currently) a collection various C# implementations of previous PowerShell functionality, and includes six separate toolsets being released today- Seatbelt, SharpUp, SharpRoast, SharpDump, SafetyKatz, and SharpWMI. https://github.com/GhostPack
- 3. SharpWeb .NET 2.0 CLR project to retrieve saved browser credentials from Google Chrome, Mozilla Firefox and Microsoft Internet Explorer/Edge. https://github.com/djhohnstein/SharpWeb
- 4. reconerator C# Targeted Attack Reconnissance Tools. https://github.com/stufus/reconerator
- 5. SharpView C# implementation of harmj0y’s PowerView. https://github.com/tevora-threat/SharpView
- 6. Watson is a (.NET 2.0 compliant) C# implementation of Sherlock. https://github.com/rasta-mouse/Watson
+ 1. [SharpSploit](https://github.com/cobbr/SharpSploit) is a .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers. 
+ 2. [GhostPack](https://github.com/GhostPack) is (currently) a collection various C# implementations of previous PowerShell functionality, and includes six separate toolsets being released today- Seatbelt, SharpUp, SharpRoast, SharpDump, SafetyKatz, and SharpWMI. 
+ 3. [SharpWeb](https://github.com/djhohnstein/SharpWeb) .NET 2.0 CLR project to retrieve saved browser credentials from Google Chrome, Mozilla Firefox and Microsoft Internet Explorer/Edge. 
+ 4. [reconerator](https://github.com/stufus/reconerator) C# Targeted Attack Reconnissance Tools. 
+ 5. [SharpView](https://github.com/tevora-threat/SharpView) C# implementation of harmj0y’s PowerView. 
+ 6. [Watson](https://github.com/rasta-mouse/Watson) is a (.NET 2.0 compliant) C# implementation of Sherlock. 
 
 
 
-##Labs
- 1. Detection Lab This lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations. https://github.com/clong/DetectionLab
- 2. Modern Windows Attacks and Defense Lab This is the lab configuration for the Modern Windows Attacks and Defense class that Sean Metcalf (@pyrotek3) and I teach. https://github.com/jaredhaight/WindowsAttackAndDefenseLab
- 3. Invoke-UserSimulator Simulates common user behaviour on local and remote Windows hosts. https://github.com/ubeeri/Invoke-UserSimulator
- 4. Invoke-ADLabDeployer Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams. https://github.com/outflanknl/Invoke-ADLabDeployer
- 5. Sheepl Creating realistic user behaviour for supporting tradecraft development within lab environments. https://github.com/SpiderLabs/sheepl
+## Labs
+ 1. [Detection Lab This lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations](https://github.com/clong/DetectionLab). 
+ 2. [Modern Windows Attacks and Defense Lab This is the lab configuration for the Modern Windows Attacks and Defense class that Sean Metcalf (@pyrotek3) and I teach](https://github.com/jaredhaight/WindowsAttackAndDefenseLab). 
+ 3. [Invoke-UserSimulator Simulates common user behaviour on local and remote Windows hosts](https://github.com/ubeeri/Invoke-UserSimulator). 
+ 4. [Invoke-ADLabDeployer Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams](https://github.com/outflanknl/Invoke-ADLabDeployer). 
+ 5. [Sheepl Creating realistic user behaviour for supporting tradecraft development within lab environments](https://github.com/SpiderLabs/sheepl). 
 
 
 
 ## Scripts
- Aggressor Scripts is a scripting language for red team operations and adversary simulations inspired by scriptable IRC clients and bots.
+Aggressor Scripts is a scripting language for red team operations and adversary simulations inspired by scriptable IRC clients and bots.
 1. https://github.com/invokethreatguy/CSASC
 2. https://github.com/secgroundzero/CS-Aggressor-Scripts
 3. https://github.com/Und3rf10w/Aggressor-scripts
@@ -355,7 +355,7 @@
 
 
 
- A collection scripts useful for red teaming and pentesting
+## A collection scripts useful for red teaming and pentesting
 1. https://github.com/FuzzySecurity/PowerShell-Suite
 2. https://github.com/nettitude/Powershell
 3. https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts
