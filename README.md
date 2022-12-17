@@ -24,6 +24,7 @@
 ### 8. dirsearch is a simple command line tool designed to brute force directories and files in websites. https://github.com/maurosoria/dirsearch
 ### 9. Sn1per automated pentest recon scanner. https://github.com/1N3/Sn1per
 
+
 ## Passive Intelligence Gathering
 ### 1.Social Mapper OSINT Social Media Mapping Tool, takes a list of names & images (or LinkedIn company name) and performs automated target searching on a huge scale across multiple social media sites. Not restricted by APIs as it instruments a browser using Selenium. Outputs reports to aid in correlating targets across sites. https://github.com/SpiderLabs/social_mapper
 ### 2.skiptracer OSINT scraping framework, utilizes some basic python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget. https://github.com/xillwillx/skiptracer
@@ -41,11 +42,14 @@
 ### 14.CrossLinked LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping. https://github.com/m8r0wn/CrossLinked
 ### 15.findomain is a fast domain enumeration tool that uses Certificate Transparency logs and a selection of APIs. https://github.com/Edu4rdSHL/findomain
 
+
 ## Frameworks
 ### 1. Maltego is a unique platform developed to deliver a clear threat picture to the environment that an organization owns and operates. https://www.paterva.com/web7/downloads.php
 ### 2. SpiderFoot the open source footprinting and intelligence-gathering tool. https://github.com/smicallef/spiderfoot
 ### 3. datasploit is an OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats. https://github.com/DataSploit/datasploit
 ### 4. Recon-ng is a full-featured Web Reconnaissance framework written in Python. https://bitbucket.org/LaNMaSteR53/recon-ng
+
+
 
 # **Weaponization**
 ### 1.WinRAR Remote Code Execution Proof of Concept exploit for CVE-2018-20250. https://github.com/WyAtu/CVE-2018-20250
@@ -107,6 +111,8 @@
 ### 41.CallObfuscator Obfuscate windows apis from static analysis tools and debuggers. https://github.com/d35ha/CallObfuscator
 ### 42.Donut is a shellcode generation tool that creates position-independant shellcode payloads from .NET Assemblies. This shellcode may be used to inject the Assembly into arbitrary Windows processes. https://github.com/TheWover/donut
 
+
+
 # **Delivery**
 ## Phishing
 ### 1 . King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. https://github.com/securestate/king-phisher
@@ -121,6 +127,8 @@
 ### 10. Evilginx2 is a man-in-the-middle attack framework used for phishing credentials and session cookies of any web service. https://github.com/kgretzky/evilginx2
 ### 11. Watering Hole Attack
 ### 12. BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. https://github.com/beefproject/beef
+
+
 
 # **Command and Control**
 ## Remote Access Tools
@@ -141,6 +149,8 @@
 ### 15. Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. https://github.com/BishopFox/sliver
 ### 16. EvilOSX An evil RAT (Remote Administration Tool) for macOS / OS X. https://github.com/Marten4n6/EvilOSX
 ### 17. EggShell is a post exploitation surveillance tool written in Python. It gives you a command line session with extra functionality between you and a target machine. https://github.com/neoneggplant/EggShell
+
+
 
 ## Staging
 ### 1 .Rapid Attack Infrastructure (RAI) Red Team Infrastructure… Quick… Fast… Simplified One of the most tedious phases of a Red Team Operation is usually the infrastructure setup. This usually entails a teamserver or controller, domains, redirectors, and a Phishing server. https://github.com/obscuritylabs/RAI
@@ -176,6 +186,8 @@
 ### 31.keyserver Easily serve HTTP and DNS keys for proper payload protection. https://github.com/leoloobeek/keyserver
 ### 32.DoHC2 allows the ExternalC2 library from Ryan Hanson (https://github.com/ryhanson/ExternalC2) to be leveraged for command and control (C2) via DNS over HTTPS (DoH). This is built for the popular Adversary Simulation and Red Team Operations Software Cobalt Strike (https://www.cobaltstrike.com). https://github.com/SpiderLabs/DoHC2
 ### 33.HTran is a connection bouncer, a kind of proxy server. A “listener” program is hacked stealthily onto an unsuspecting host anywhere on the Internet. https://github.com/HiwinCN/HTran
+
+
 
 ## **Lateral Movement**
 ### 1 .CrackMapExec is a swiss army knife for pentesting networks. https://github.com/byt3bl33d3r/CrackMapExec
@@ -213,6 +225,8 @@
 ### 33.HoneypotBuster Microsoft PowerShell module designed for red teams that can be used to find honeypots and honeytokens in the network or at the host. https://github.com/JavelinNetworks/HoneypotBuster
 ### 34.PAExec lets you launch Windows programs on remote Windows computers without needing to install software on the remote computer first. https://www.poweradmin.com/paexec/
 
+
+
 # Establish Foothold
 ### 1. Tunna is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments. https://github.com/SECFORCE/Tunna
 ### 2. reGeorg the successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn. https://github.com/sensepost/reGeorg
@@ -220,6 +234,8 @@
 ### 4. TinyShell Web Shell Framework. https://github.com/threatexpress/tinyshell
 ### 5. PowerLurk is a PowerShell toolset for building malicious WMI Event Subsriptions. https://github.com/Sw4mpf0x/PowerLurk
 ### 6. DAMP The Discretionary ACL Modification Project: Persistence Through Host-based Security Descriptor Modification. https://github.com/HarmJ0y/DAMP
+
+
 
 # **Escalate Privileges**
 ## Domain Escalation
@@ -239,6 +255,8 @@
 ### 14. Rubeus is a C# toolset for raw Kerberos interaction and abuses. It is heavily adapted from Benjamin Delpy’s Kekeo project. https://github.com/GhostPack/Rubeus
 ### 15. kekeo is a little toolbox I have started to manipulate Microsoft Kerberos in C (and for fun). https://github.com/gentilkiwi/kekeo
 
+
+
 ## Local Escalation
 ### 1.UACMe is an open source assessment tool that contains many methods for bypassing Windows User Account Control on multiple versions of the operating system. https://github.com/hfiref0x/UACME
 ### 2.windows-kernel-exploits a collection windows kernel exploit. https://github.com/SecWiki/windows-kernel-exploits
@@ -246,6 +264,8 @@
 ### 4.The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike’s Beacon payload. https://github.com/rsmudge/ElevateKit
 ### 5.Sherlock a powerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. https://github.com/rasta-mouse/Sherlock
 ### 6.Tokenvator a tool to elevate privilege with Windows Tokens. https://github.com/0xbadjuju/Tokenvator
+
+
 
 # **Data Exfiltration**
 ### 1. CloakifyFactory & the Cloakify Toolset – Data Exfiltration & Infiltration In Plain Sight; Evade DLP/MLS Devices; Social Engineering of Analysts; Defeat Data Whitelisting Controls; Evade AV Detection. https://github.com/TryCatchHCF/Cloakify
@@ -255,6 +275,8 @@
 ### 5. Egress-Assess is a tool used to test egress data detection capabilities. https://github.com/ChrisTruncer/Egress-Assess
 ### 6. Powershell RAT python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment. https://github.com/Viralmaniar/Powershell-RAT
 
+
+
 # **Misc**
 ## Adversary Emulation
 ### 1. MITRE CALDERA – An automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. https://github.com/mitre/caldera
@@ -263,6 +285,8 @@
 ### 4. Network Flight Simulator – flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. https://github.com/alphasoc/flightsim
 ### 5. Metta – A security preparedness tool to do adversarial simulation. https://github.com/uber-common/metta
 ### 6. Red Team Automation (RTA) – RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK. https://github.com/endgameinc/RTA
+
+
 
 ## Wireless Networks
 ### 1 . Wifiphisher is a security tool that performs Wi-Fi automatic association attacks to force wireless clients to unknowingly connect to an attacker-controlled Access Point. https://github.com/wifiphisher/wifiphisher
@@ -277,9 +301,13 @@
 ### 10. WHID WiFi HID Injector – An USB Rubberducky / BadUSB On Steroids. https://github.com/whid-injector/WHID
 ### 11. PhanTap is an ‘invisible’ network tap aimed at red teams. With limited physical access to a target building, this tap can be installed inline between a network device and the corporate network. https://github.com/nccgroup/phantap
 
+
+
 ## Software For Team Communication
 ### 1. RocketChat is free, unlimited and open source. Replace email & Slack with the ultimate team chat software solution. https://rocket.chat
 ### 2. Etherpad is an open source, web-based collaborative real-time editor, allowing authors to simultaneously edit a text document https://etherpad.org/
+
+
 
 ## Log Aggregation
 ### 1. RedELK Red Team’s SIEM – easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. https://github.com/outflanknl/RedELK/
@@ -287,6 +315,8 @@
 ### 3. Red Team Telemetry A collection of scripts and configurations to enable centralized logging of red team infrastructure. https://github.com/ztgrace/red_team_telemetry
 ### 4. Elastic for Red Teaming Repository of resources for configuring a Red Team SIEM using Elastic. https://github.com/SecurityRiskAdvisors/RedTeamSIEM
 ### 5. Ghostwriter is a Django project written in Python 3.7 and is designed to be used by a team of operators. https://github.com/GhostManager/Ghostwriter
+
+
 
 ## C# Offensive Framework
 ### 1. SharpSploit is a .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers. https://github.com/cobbr/SharpSploit
@@ -296,12 +326,16 @@
 ### 5. SharpView C# implementation of harmj0y’s PowerView. https://github.com/tevora-threat/SharpView
 ### 6. Watson is a (.NET 2.0 compliant) C# implementation of Sherlock. https://github.com/rasta-mouse/Watson
 
+
+
 ##Labs
 ### 1. Detection Lab This lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations. https://github.com/clong/DetectionLab
 ### 2. Modern Windows Attacks and Defense Lab This is the lab configuration for the Modern Windows Attacks and Defense class that Sean Metcalf (@pyrotek3) and I teach. https://github.com/jaredhaight/WindowsAttackAndDefenseLab
 ### 3. Invoke-UserSimulator Simulates common user behaviour on local and remote Windows hosts. https://github.com/ubeeri/Invoke-UserSimulator
 ### 4. Invoke-ADLabDeployer Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams. https://github.com/outflanknl/Invoke-ADLabDeployer
 ### 5. Sheepl Creating realistic user behaviour for supporting tradecraft development within lab environments. https://github.com/SpiderLabs/sheepl
+
+
 
 ## Scripts
 ### Aggressor Scripts is a scripting language for red team operations and adversary simulations inspired by scriptable IRC clients and bots.
@@ -317,6 +351,8 @@
 10. https://github.com/FortyNorthSecurity/AggressorAssessor
 11. https://github.com/ramen0x3f/AggressorScripts
 
+
+
 ### A collection scripts useful for red teaming and pentesting
 1 . https://github.com/FuzzySecurity/PowerShell-Suite
 2 . https://github.com/nettitude/Powershell
@@ -331,6 +367,8 @@
 11. https://github.com/xorrior/Random-CSharpTools
 12. https://github.com/leechristensen/Random
 13. https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/social-engineering
+
+
 
 # **References**
 ### 1 . MITRE’s ATT&CK™ is a curated knowledge base and model for cyber adversary behavior, reflecting the various phases of an adversary’s lifecycle and the platforms they are known to target. https://attack.mitre.org/wiki/Main_Page
