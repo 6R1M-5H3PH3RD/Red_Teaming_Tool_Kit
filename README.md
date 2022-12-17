@@ -3,15 +3,15 @@
 
 ## Contents
 1. [Reconnaissance](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#active-intelligence-gathering)
-2. [Weaponization](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#weaponization)
-3. [Delivery](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#delivery)
-4. [Command and Control](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#command-and-control)
-5. [Lateral Movement](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#lateral-movement)
-6. [Establish Foothold](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#establish-foothold)
-7. [Escalate Privileges](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#escalate-privileges)
-8. [Data Exfiltration](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#data-exfiltration)
-9. [Misc](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#misc)
-10. [References](https://github.com/MagicBox77/Red_Teaming_Tool_Kit/new/main?readme=1#references)
+2. [Weaponization](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#weaponization)
+3. [Delivery](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#delivery)
+4. [Command and Control](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#command-and-control)
+5. [Lateral Movement](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#lateral-movement)
+6. [Establish Foothold](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#establish-foothold)
+7. [Escalate Privileges](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#escalate-privileges)
+8. [Data Exfiltration](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#data-exfiltration)
+9. [Misc](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#misc)
+10. [References](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#references)
 
 
 #  **Reconnaissance**
