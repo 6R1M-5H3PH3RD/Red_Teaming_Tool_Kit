@@ -2,16 +2,16 @@
 # Red_Teaming_Tool_Kit
 
 ## Contents
-1. [Reconnaissance](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#active-intelligence-gathering)
-2. [Weaponization](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#weaponization)
-3. [Delivery](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#delivery)
-4. [Command and Control](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#command-and-control)
-5. [Lateral Movement](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#lateral-movement)
-6. [Establish Foothold](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#establish-foothold)
-7. [Escalate Privileges](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#escalate-privileges)
-8. [Data Exfiltration](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#data-exfiltration)
-9. [Misc](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#misc)
-10. [References](https://github.com/MagicBox77/Red_Teaming_Tool_Kit#references)
+1. [Reconnaissance](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#active-intelligence-gathering)
+2. [Weaponization](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#weaponization)
+3. [Delivery](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#delivery)
+4. [Command and Control](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#command-and-control)
+5. [Lateral Movement](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#lateral-movement)
+6. [Establish Foothold](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#establish-foothold)
+7. [Escalate Privileges](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#escalate-privileges)
+8. [Data Exfiltration](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#data-exfiltration)
+9. [Misc](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#misc)
+10. [References](https://github.com/6R1M-5H3PH3RD/Red_Teaming_Tool_Kit#references)
 
 
 #  **Reconnaissance**
