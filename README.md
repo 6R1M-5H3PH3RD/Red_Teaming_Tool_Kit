@@ -46,72 +46,72 @@
 
 
 ## Frameworks
- 1. Maltego is a unique platform developed to deliver a clear threat picture to the environment that an organization owns and operates. https://www.paterva.com/web7/downloads.php
- 2. SpiderFoot the open source footprinting and intelligence-gathering tool. https://github.com/smicallef/spiderfoot
- 3. datasploit is an OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats. https://github.com/DataSploit/datasploit
- 4. Recon-ng is a full-featured Web Reconnaissance framework written in Python. https://bitbucket.org/LaNMaSteR53/recon-ng
+ 1. [Maltego](https://www.paterva.com/web7/downloads.php) is a unique platform developed to deliver a clear threat picture to the environment that an organization owns and operates. 
+ 2. [SpiderFoot](https://github.com/smicallef/spiderfoot) the open source footprinting and intelligence-gathering tool. 
+ 3. [datasploit](https://github.com/DataSploit/datasploit) is an OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats. 
+ 4. [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) is a full-featured Web Reconnaissance framework written in Python. 
 
 
 
 # **Weaponization**
- 1. WinRAR Remote Code Execution Proof of Concept exploit for CVE-2018-20250. https://github.com/WyAtu/CVE-2018-20250
- 2. Composite Moniker Proof of Concept exploit for CVE-2017-8570. https://github.com/rxwx/CVE-2017-8570
- 3. Exploit toolkit CVE-2017-8759 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE. https://github.com/bhdresh/CVE-2017-8759
- 4. CVE-2017-11882 Exploit accepts over 17k bytes long command/code in maximum. https://github.com/unamer/CVE-2017-11882
- 5. Adobe Flash Exploit CVE-2018-4878. https://github.com/anbai-inc/CVE-2018-4878
- 6. Exploit toolkit CVE-2017-0199 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft Office RCE. https://github.com/bhdresh/CVE-2017-0199
- 7. demiguise is a HTA encryption tool for RedTeams. https://github.com/nccgroup/demiguise
- 8. Office-DDE-Payloads collection of scripts and templates to generate Office documents embedded with the DDE, macro-less command execution technique. https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
- 9. CACTUSTORCH Payload Generation for Adversary Simulations. https://github.com/mdsecactivebreach/CACTUSTORCH
- 10. SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code. https://github.com/mdsecactivebreach/SharpShooter
- 11. Don’t kill my cat is a tool that generates obfuscated shellcode that is stored inside of polyglot images. The image is 100% valid and also 100% valid shellcode. https://github.com/Mr-Un1k0d3r/DKMC
- 12. Malicious Macro Generator Utility Simple utility design to generate obfuscated macro that also include a AV / Sandboxes escape mechanism. https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator
- 13. SCT Obfuscator Cobalt Strike SCT payload obfuscator. https://github.com/Mr-Un1k0d3r/SCT-obfuscator
- 14. Invoke-Obfuscation PowerShell Obfuscator. https://github.com/danielbohannon/Invoke-Obfuscation
- 15. Invoke-CradleCrafter PowerShell remote download cradle generator and obfuscator. https://github.com/danielbohannon/Invoke-CradleCrafter
- 16. Invoke-DOSfuscation cmd.exe Command Obfuscation Generator & Detection Test Harness. https://github.com/danielbohannon/Invoke-DOSfuscation
- 17. morphHTA Morphing Cobalt Strike’s evil.HTA. https://github.com/vysec/morphHTA
- 18. Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. https://github.com/trustedsec/unicorn
- 19. Shellter is a dynamic shellcode injection tool, and the first truly dynamic PE infector ever created. https://www.shellterproject.com/
- 20. EmbedInHTML Embed and hide any file in an HTML file. https://github.com/Arno0x/EmbedInHTML
- 21. SigThief Stealing Signatures and Making One Invalid Signature at a Time. https://github.com/secretsquirrel/SigThief
- 22. Veil is a tool designed to generate metasploit payloads that bypass common anti-virus solutions. https://github.com/Veil-Framework/Veil
- 23. CheckPlease Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust. https://github.com/Arvanaghi/CheckPlease
- 24. Invoke-PSImage is a tool to embeded a PowerShell script in the pixels of a PNG file and generates a oneliner to execute. https://github.com/peewpw/Invoke-PSImage
- 25. LuckyStrike a PowerShell based utility for the creation of malicious Office macro documents. To be used for pentesting or educational purposes only. https://github.com/curi0usJack/luckystrike
- 26. ClickOnceGenerator Quick Malicious ClickOnceGenerator for Red Team. The default application a simple WebBrowser widget that point to a website of your choice. https://github.com/Mr-Un1k0d3r/ClickOnceGenerator
- 27. macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of MS Office documents, VB scripts, and other formats for pentest, demo, and social engineering assessments. https://github.com/sevagas/macro_pack
- 28. StarFighters a JavaScript and VBScript Based Empire Launcher. https://github.com/Cn33liz/StarFighters
- 29. nps_payload this script will generate payloads for basic intrusion detection avoidance. It utilizes publicly demonstrated techniques from several different sources. https://github.com/trustedsec/nps_payload
- 30. SocialEngineeringPayloads a collection of social engineering tricks and payloads being used for credential theft and spear phishing attacks. https://github.com/bhdresh/SocialEngineeringPayloads
- 31. The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. https://github.com/trustedsec/social-engineer-toolkit
- 32. Phishery is a Simple SSL Enabled HTTP server with the primary purpose of phishing credentials via Basic Authentication. https://github.com/ryhanson/phishery
- 33. PowerShdll run PowerShell with rundll32. Bypass software restrictions. https://github.com/p3nt4/PowerShdll
- 34. Ultimate AppLocker ByPass List The goal of this repository is to document the most common techniques to bypass AppLocker. https://github.com/api0cradle/UltimateAppLockerByPassList
- 35. Ruler is a tool that allows you to interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP protocol. https://github.com/sensepost/ruler
- 36. Generate-Macro is a standalone PowerShell script that will generate a malicious Microsoft Office document with a specified payload and persistence method. https://github.com/enigma0x3/Generate-Macro
- 37. Malicious Macro MSBuild Generator Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass. https://github.com/infosecn1nja/MaliciousMacroMSBuild
- 38. Meta Twin is designed as a file resource cloner. Metadata, including digital signature, is extracted from one file and injected into another. https://github.com/threatexpress/metatwin
- 39. WePWNise generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software. https://github.com/mwrlabs/wePWNise
- 40. DotNetToJScript a tool to create a JScript file which loads a .NET v2 assembly from memory. https://github.com/tyranid/DotNetToJScript
- 41. PSAmsi is a tool for auditing and defeating AMSI signatures. https://github.com/cobbr/PSAmsi
- 42. Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process. https://github.com/stephenfewer/ReflectiveDLLInjection
- 43. ps1encode use to generate and encode a powershell based metasploit payloads. https://github.com/CroweCybersecurity/ps1encode
- 44. Worse PDF turn a normal PDF file into malicious. Use to steal Net-NTLM Hashes from windows machines. https://github.com/3gstudent/Worse-PDF
- 45. SpookFlare has a different perspective to bypass security measures and it gives you the opportunity to bypass the endpoint countermeasures at the client-side detection and network-side detection. https://github.com/hlldz/SpookFlare
- 46. GreatSCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team. https://github.com/GreatSCT/GreatSCT
- 47. nps running powershell without powershell. https://github.com/Ben0xA/nps
- 48. Meterpreter_Paranoid_Mode.sh allows users to secure your staged/stageless connection for Meterpreter by having it check the certificate of the handler it is connecting to. https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL
- 49. The Backdoor Factory (BDF) is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state. https://github.com/secretsquirrel/the-backdoor-factory
- 50. MacroShop a collection of scripts to aid in delivering payloads via Office Macros. https://github.com/khr0x40sh/MacroShop
- 51. UnmanagedPowerShell Executes PowerShell from an unmanaged process. https://github.com/leechristensen/UnmanagedPowerShell
- 52. evil-ssdp Spoof SSDP replies to phish for NTLM hashes on a network. Creates a fake UPNP device, tricking users into visiting a malicious phishing page. https://gitlab.com/initstring/evil-ssdp
- 53. Ebowla Framework for Making Environmental Keyed Payloads. https://github.com/Genetic-Malware/Ebowla
- 54. make-pdf-embedded a tool to create a PDF document with an embedded file. https://github.com/DidierStevens/DidierStevensSuite/blob/master/make-pdf-embedded.py
- 55. avet (AntiVirusEvasionTool) is targeting windows machines with executable files using different evasion techniques. https://github.com/govolution/avet
- 56. EvilClippy A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows. https://github.com/outflanknl/EvilClippy
- 57. CallObfuscator Obfuscate windows apis from static analysis tools and debuggers. https://github.com/d35ha/CallObfuscator
- 58. Donut is a shellcode generation tool that creates position-independant shellcode payloads from .NET Assemblies. This shellcode may be used to inject the Assembly into arbitrary Windows processes. https://github.com/TheWover/donut
+ 1. WinRAR Remote Code Execution Proof of Concept exploit for [CVE-2018-20250](https://github.com/WyAtu/CVE-2018-20250). 
+ 2. Composite Moniker Proof of Concept exploit for [CVE-2017-8570](https://github.com/rxwx/CVE-2017-8570). 
+ 3. Exploit toolkit [CVE-2017-8759]( https://github.com/bhdresh/CVE-2017-8759) is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE.
+ 4. [CVE-2017-11882](https://github.com/unamer/CVE-2017-11882) Exploit accepts over 17k bytes long command/code in maximum. 
+ 5. Adobe Flash Exploit [CVE-2018-4878](https://github.com/anbai-inc/CVE-2018-4878). 
+ 6. Exploit toolkit [CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199) is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft Office RCE. 
+ 7. [demiguise](https://github.com/nccgroup/demiguise) is a HTA encryption tool for RedTeams. 
+ 8. [Office-DDE-Payloads](https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads) collection of scripts and templates to generate Office documents embedded with the DDE, macro-less command execution technique. 
+ 9. [CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH) Payload Generation for Adversary Simulations. 
+ 10. [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) is a payload creation framework for the retrieval and execution of arbitrary CSharp source code. 
+ 11. [Don’t kill my cat](https://github.com/Mr-Un1k0d3r/DKMC) is a tool that generates obfuscated shellcode that is stored inside of polyglot images. The image is 100% valid and also 100% valid shellcode. 
+ 12. [Malicious Macro Generator Utility](https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator) Simple utility design to generate obfuscated macro that also include a AV / Sandboxes escape mechanism. 
+ 13. [SCT Obfuscator](https://github.com/Mr-Un1k0d3r/SCT-obfuscator) Cobalt Strike SCT payload obfuscator. 
+ 14. [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) PowerShell Obfuscator. 
+ 15. [Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) PowerShell remote download cradle generator and obfuscator. 
+ 16. [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation) cmd.exe Command Obfuscation Generator & Detection Test Harness. 
+ 17. [morphHTA](https://github.com/vysec/morphHTA) Morphing Cobalt Strike’s evil.HTA. 
+ 18. [Unicorn](https://github.com/trustedsec/unicorn) is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. 
+ 19. [Shellter](https://www.shellterproject.com/) is a dynamic shellcode injection tool, and the first truly dynamic PE infector ever created. 
+ 20. [EmbedInHTML](https://github.com/Arno0x/EmbedInHTML) Embed and hide any file in an HTML file. 
+ 21. [SigThief](https://github.com/secretsquirrel/SigThief) Stealing Signatures and Making One Invalid Signature at a Time. 
+ 22. [Veil](https://github.com/Veil-Framework/Veil) is a tool designed to generate metasploit payloads that bypass common anti-virus solutions. 
+ 23. [CheckPlease](https://github.com/Arvanaghi/CheckPlease) Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust. 
+ 24. [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) is a tool to embeded a PowerShell script in the pixels of a PNG file and generates a oneliner to execute. 
+ 25. [LuckyStrike](https://github.com/curi0usJack/luckystrike) a PowerShell based utility for the creation of malicious Office macro documents. To be used for pentesting or educational purposes only. 
+ 26. [ClickOnceGenerator](https://github.com/Mr-Un1k0d3r/ClickOnceGenerator) Quick Malicious ClickOnceGenerator for Red Team. The default application a simple WebBrowser widget that point to a website of your choice. 
+ 27. [macro_pack](https://github.com/sevagas/macro_pack) is a tool by @EmericNasi used to automatize obfuscation and generation of MS Office documents, VB scripts, and other formats for pentest, demo, and social engineering assessments. 
+ 28. [StarFighters](https://github.com/Cn33liz/StarFighters) a JavaScript and VBScript Based Empire Launcher. 
+ 29. [nps_payload](https://github.com/trustedsec/nps_payload) this script will generate payloads for basic intrusion detection avoidance. It utilizes publicly demonstrated techniques from several different sources. 
+ 30. [SocialEngineeringPayloads](https://github.com/bhdresh/SocialEngineeringPayloads) a collection of social engineering tricks and payloads being used for credential theft and spear phishing attacks. 
+ 31. [The Social-Engineer](https://github.com/trustedsec/social-engineer-toolkit) Toolkit is an open-source penetration testing framework designed for social engineering. 
+ 32. [Phishery](https://github.com/ryhanson/phishery) is a Simple SSL Enabled HTTP server with the primary purpose of phishing credentials via Basic Authentication. 
+ 33. [PowerShdll](https://github.com/p3nt4/PowerShdll) run PowerShell with rundll32. Bypass software restrictions. 
+ 34. [Ultimate AppLocker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) The goal of this repository is to document the most common techniques to bypass AppLocker. 
+ 35. [Ruler](https://github.com/sensepost/ruler) is a tool that allows you to interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP protocol. 
+ 36. [Generate-Macro](https://github.com/enigma0x3/Generate-Macro) is a standalone PowerShell script that will generate a malicious Microsoft Office document with a specified payload and persistence method. 
+ 37. [Malicious Macro MSBuild Generator](https://github.com/infosecn1nja/MaliciousMacroMSBuild) Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass. 
+ 38. [Meta Twin](https://github.com/threatexpress/metatwin) is designed as a file resource cloner. Metadata, including digital signature, is extracted from one file and injected into another. 
+ 39. [WePWNise](https://github.com/mwrlabs/wePWNise) generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software. 
+ 40. [DotNetToJScript](https://github.com/tyranid/DotNetToJScript) a tool to create a JScript file which loads a .NET v2 assembly from memory. 
+ 41. [PSAmsi](https://github.com/cobbr/PSAmsi) is a tool for auditing and defeating AMSI signatures. 
+ 42. [Reflective DLL injection](https://github.com/stephenfewer/ReflectiveDLLInjection) is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process. 
+ 43. [ps1encode](https://github.com/CroweCybersecurity/ps1encode) use to generate and encode a powershell based metasploit payloads. 
+ 44. [Worse PDF](https://github.com/3gstudent/Worse-PDF) turn a normal PDF file into malicious. Use to steal Net-NTLM Hashes from windows machines. 
+ 45. [SpookFlare](https://github.com/hlldz/SpookFlare) has a different perspective to bypass security measures and it gives you the opportunity to bypass the endpoint countermeasures at the client-side detection and network-side detection. 
+ 46. [GreatSCT](https://github.com/GreatSCT/GreatSCT) is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team. 
+ 47. [nps](https://github.com/Ben0xA/nps) running powershell without powershell. 
+ 48. [Meterpreter_Paranoid_Mode.sh](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL) allows users to secure your staged/stageless connection for Meterpreter by having it check the certificate of the handler it is connecting to. 
+ 49. [The Backdoor Factory](https://github.com/secretsquirrel/the-backdoor-factory) (BDF) is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state. 
+ 50. [MacroShop](https://github.com/khr0x40sh/MacroShop) a collection of scripts to aid in delivering payloads via Office Macros. 
+ 51. [UnmanagedPowerShell](https://github.com/leechristensen/UnmanagedPowerShell) Executes PowerShell from an unmanaged process. 
+ 52. [evil-ssdp](https://gitlab.com/initstring/evil-ssdp) Spoof SSDP replies to phish for NTLM hashes on a network. Creates a fake UPNP device, tricking users into visiting a malicious phishing page. 
+ 53. [Ebowla](https://github.com/Genetic-Malware/Ebowla) Framework for Making Environmental Keyed Payloads. 
+ 54. [make-pdf-embedded](https://github.com/DidierStevens/DidierStevensSuite/blob/master/make-pdf-embedded.py) a tool to create a PDF document with an embedded file. 
+ 55. [avet](https://github.com/govolution/avet) (AntiVirusEvasionTool) is targeting windows machines with executable files using different evasion techniques. 
+ 56. [EvilClippy](https://github.com/outflanknl/EvilClippy) A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows. 
+ 57. [CallObfuscator Obfuscate](https://github.com/d35ha/CallObfuscator) windows apis from static analysis tools and debuggers. 
+ 58. [Donut](https://github.com/TheWover/donut) is a shellcode generation tool that creates position-independant shellcode payloads from .NET Assemblies. This shellcode may be used to inject the Assembly into arbitrary Windows processes. 
 
 
 
@@ -373,21 +373,21 @@
 
 
 #  **References**
- 1. MITRE’s ATT&CK™ is a curated knowledge base and model for cyber adversary behavior, reflecting the various phases of an adversary’s lifecycle and the platforms they are known to target. https://attack.mitre.org/wiki/Main_Page
- 2. Cheat Sheets for various projects (Beacon/Cobalt Strike,PowerView, PowerUp, Empire, and PowerSploit). https://github.com/HarmJ0y/CheatSheets
- 3. PRE-ATT&CK Adversarial Tactics, Techniques & Common Knowledge for Left-of-Exploit. https://attack.mitre.org/pre-attack/index.php/Main_Page
- 4. Adversary OPSEC consists of the use of various technologies or 3rd party services to obfuscate, hide, or blend in with accepted network traffic or system behavior. https://attack.mitre.org/pre-attack/index.php/Adversary_OPSEC
- 5. Adversary Emulation Plans To showcase the practical use of ATT&CK for offensive operators and defenders, MITRE created Adversary Emulation Plans. https://attack.mitre.org/wiki/Adversary_Emulation_Plans
- 6. Red-Team-Infrastructure-Wiki Wiki to collect Red Team infrastructure hardening resources. https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
- 7. Advanced Threat Tactics – Course and Notes This is a course on red team operations and adversary simulations. https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes
- 8. Red Team Tips as posted by @vysecurity on Twitter. https://vincentyiu.co.uk/red-team-tips
- 9. Awesome Red Teaming List of Awesome Red Team / Red Teaming Resources. https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
- 10. APT & CyberCriminal Campaign Collection This is a collection of APT and CyberCriminal campaigns. Please fire issue to me if any lost APT/Malware events/campaigns. https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
- 11. ATT&CK for Enterprise Software is a generic term for custom or commercial code, operating system utilities, open-source software, or other tools used to conduct behavior modeled in ATT&CK. https://attack.mitre.org/wiki/Software
- 12. Planning a Red Team exercise This document helps inform red team planning by contrasting against the very specific red team style described in Red Teams. https://github.com/magoo/redteam-plan
- 13. Awesome Lockpicking a curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys. https://github.com/meitar/awesome-lockpicking
- 14. Awesome Threat Intelligence a curated list of awesome Threat Intelligence resources. https://github.com/hslatman/awesome-threat-intelligence
- 15. APT Notes Need some scenario? APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets. https://github.com/aptnotes/data
- 16. TIBER-EU FRAMEWORK The European Framework for Threat Intelligence-based Ethical Red Teaming (TIBER-EU), which is the first Europe-wide framework for controlled and bespoke tests against cyber attacks in the financial market. http://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf
- 17. CBEST Implementation Guide CBEST is a framework to deliver controlled, bespoke, intelligence-led cyber security tests. The tests replicate behaviours of threat actors, assessed by the UK Government and commercial intelligence providers as posing a genuine threat to systemically important financial institutions. https://www.crest-approved.org/wp-content/uploads/2014/07/CBEST-Implementation-Guide.pdf
- 18. Red Team: Adversarial Attack Simulation Exercise Guidelines for the Financial Industry in Singapore The Association of Banks in Singapore (ABS), with support from the Monetary Authority of Singapore (MAS), has developed a set of cybersecurity assessment guidelines today to strengthen the cyber resilience of the financial sector in Singapore. Known as the Adversarial Attack Simulation Exercises (AASE) Guidelines or “Red Teaming” Guidelines, the Guidelines provide financial institutions (FIs) with best practices and guidance on planning and conducting Red Teaming exercises to enhance their security testing. https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exercises-guidelines-v1-06766a69f299c69658b7dff00006ed795.pdf
+ 1. [MITRE’s ATT&CK™ is a curated knowledge base and model for cyber adversary behavior, reflecting the various phases of an adversary’s lifecycle and the platforms they are known to target](https://attack.mitre.org/wiki/Main_Page). 
+ 2. [Cheat Sheets for various projects (Beacon/Cobalt Strike,PowerView, PowerUp, Empire, and PowerSploit)](https://github.com/HarmJ0y/CheatSheets)
+ 3. [PRE-ATT&CK Adversarial Tactics, Techniques & Common Knowledge for Left-of-Exploit]https://attack.mitre.org/pre-attack/index.php/Main_Page).
+ 4. [Adversary OPSEC consists of the use of various technologies or 3rd party services to obfuscate, hide, or blend in with accepted network traffic or system behavior](https://attack.mitre.org/pre-attack/index.php/Adversary_OPSEC).
+ 5. [Adversary Emulation Plans To showcase the practical use of ATT&CK for offensive operators and defenders, MITRE created Adversary Emulation Plans](https://attack.mitre.org/wiki/Adversary_Emulation_Plans). 
+ 6. [Red-Team-Infrastructure-Wiki Wiki to collect Red Team infrastructure hardening resources](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki). 
+ 7. [Advanced Threat Tactics – Course and Notes This is a course on red team operations and adversary simulations](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes). 
+ 8. [Red Team Tips as posted by @vysecurity on Twitter](https://vincentyiu.co.uk/red-team-tips). 
+ 9. [Awesome Red Teaming List of Awesome Red Team / Red Teaming Resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming). 
+ 10. [APT & CyberCriminal Campaign Collection This is a collection of APT and CyberCriminal campaigns. Please fire issue to me if any lost APT/Malware events/campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections). 
+ 11. [ATT&CK for Enterprise Software is a generic term for custom or commercial code, operating system utilities, open-source software, or other tools used to conduct behavior modeled in ATT&CK](https://attack.mitre.org/wiki/Software). 
+ 12. [Planning a Red Team exercise This document helps inform red team planning by contrasting against the very specific red team style described in Red Teams](https://github.com/magoo/redteam-plan). 
+ 13. [Awesome Lockpicking a curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys](https://github.com/meitar/awesome-lockpicking). 
+ 14. [Awesome Threat Intelligence a curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence). 
+ 15. [APT Notes](https://github.com/aptnotes/data) Need some scenario? APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets. 
+ 16. [TIBER-EU FRAMEWORK](http://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) The European Framework for Threat Intelligence-based Ethical Red Teaming (TIBER-EU), which is the first Europe-wide framework for controlled and bespoke tests against cyber attacks in the financial market. 
+ 17. [CBEST Implementation](https://www.crest-approved.org/wp-content/uploads/2014/07/CBEST-Implementation-Guide.pdf) Guide CBEST is a framework to deliver controlled, bespoke, intelligence-led cyber security tests. The tests replicate behaviours of threat actors, assessed by the UK Government and commercial intelligence providers as posing a genuine threat to systemically important financial institutions. 
+ 18. [Red Team: Adversarial Attack Simulation Exercise Guidelines](https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exercises-guidelines-v1-06766a69f299c69658b7dff00006ed795.pdf) for the Financial Industry in Singapore The Association of Banks in Singapore (ABS), with support from the Monetary Authority of Singapore (MAS), has developed a set of cybersecurity assessment guidelines today to strengthen the cyber resilience of the financial sector in Singapore. Known as the Adversarial Attack Simulation Exercises (AASE) Guidelines or “Red Teaming” Guidelines, the Guidelines provide financial institutions (FIs) with best practices and guidance on planning and conducting Red Teaming exercises to enhance their security testing. 
